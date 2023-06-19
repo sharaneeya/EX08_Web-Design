@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
 <head>
     <title>Sample web page</title>
@@ -85,6 +86,7 @@
     </script>
 </body>
 </html>
+```
 
 
 ## OUTPUT
